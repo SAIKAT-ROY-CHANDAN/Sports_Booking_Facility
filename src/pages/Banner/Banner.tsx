@@ -13,7 +13,7 @@ const Banner = () => {
               shine with your skills.
             </div>
             <p className="max-w-[24rem]">
-              Book Arena or Coaches, play with sports enthusiats and track your
+              Book Arena or Coaches, play with sports enthusiast and track your
               fitness goals.
             </p>
             <button className="px-8 py-2 border text-[#F7A400] border-[#F7A400] rounded-md font-semibold">
