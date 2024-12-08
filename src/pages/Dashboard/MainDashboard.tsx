@@ -19,7 +19,7 @@ const MainDashboard= () => {
   return (
     <div
       className={cn(
-        "flex flex-col md:flex-row bg-gray-100 dark:bg-neutral-800 flex-1 w-full mx-auto   overflow-hidden",
+        "flex flex-col md:flex-row bg-gray-100 dark:bg-neutral-800 flex-1 w-full mx-auto  overflow-hidden",
         "h-[120vh] md:h-[100vh]" 
       )}
     >

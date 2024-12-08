@@ -1,11 +1,8 @@
-
-
 import CommonFacality from '@/ComoneComponent/CommonFacality';
 import { useGetProductsQuery } from '@/redux/feature/product/productApi';
 
 
 const Facality = () => {
-
 
     const { data } = useGetProductsQuery(undefined);
 

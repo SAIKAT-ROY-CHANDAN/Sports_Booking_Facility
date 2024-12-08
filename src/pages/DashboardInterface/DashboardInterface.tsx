@@ -12,7 +12,7 @@ const DashboardInterface = () => {
     }
 
     return (
-        <div className="flex flex-col w-full">
+        <div className="flex flex-col w-screen overflow-auto overflow-x-hidden">
             <Dashboardheader />
             <div className="m-5">
                 {/* Explicitly check both paths */}
